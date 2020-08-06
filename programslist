@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="logo.jpg" type="image/x-icon"/>
+<meta charset="UTF-8">
+<title>项目列表 - Dreamsbuilder</title>
+</head>
+<body>
+<a href="https://Drmsbldr.github.io"><img src="logo.png" alt="logo" width="100" height="100"></p></a>
+<div style="text-align:center;">
+<h1>项目列表 - Dreamsbuilder</h1>
+<h3>我们是Dreamsbuilder，专注于Python程序的开发与交流。我们用Python筑起梦想和未来的模样。</h3>
+<br>
+<br>
+<h5>项目1：Microsoft 365 Manager</h5>
+<table border="0">
+<tr>
+<td><img src="Microsoft365Manager.png" align="left"/>这是我们的第一个项目，使用Python管理Microsoft365。欢迎使用！</td>
+</tr>
+</table>
+
+</body>
+</html>
