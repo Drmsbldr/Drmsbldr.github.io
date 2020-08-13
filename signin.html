@@ -12,7 +12,17 @@
 <script src="https://apis.google.com/js/platform.js" async defer></script>
 <div class="g-signin2" data-onsuccess="onSignIn"></div>
 
-
+<br>
+  <p> </p>
+<a href="#" onclick="signOut();">退出</a>
+<script>
+  function signOut() {
+    var auth2 = gapi.auth2.getAuthInstance();
+    auth2.signOut().then(function () {
+      console.log('User signed out.');
+    });
+  }
+</script>
 
 </body>
 </html>
